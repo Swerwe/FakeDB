@@ -1,57 +1,70 @@
 {
-  "dates": {
-    "2023-06-19": [
+  "filters":[
+    {
+      "title":"All Collection",
+      "img":"https://ibb.co/t86YxpQ"
+    },
+    {
+      "title":"Casual",
+      "img":"https://ibb.co/kSsD1Kg"
+    },
+    {
+      "title":"New Arrivals",
+      "img":"https://ibb.co/6YmcwTg"
+    }
+  ],
+  "products":[
+    {
+      "title":"Jacket Black Mamba",
+      "img":"https://ibb.co/dPGSs1k",
+      "price":80.00
+    },
+    {
+      "title":"Veson Outdoor Jacket",
+      "img":"https://ibb.co/gt9vKKJ",
+      "price":95.00
+    },
+    {
+      "title":"Sigara Veson Jacket",
+      "img":"https://ibb.co/x609GXG",
+      "price":95.00
+    },
+    {
+      "title":"Rinja Veson-Soft",
+      "img":"https://ibb.co/JdTC2kP",
+      "price":75.00
+    },
+    {
+      "title":"Rinja Veson-Soft",
+      "img":"https://ibb.co/JdTC2kP",
+      "price":75.00
+    }
+  ],
+  "bestsellers":[
       {
-        "data": "Понедельник, 19 июня",
-        "time": "11:30",
-        "subj": "Механика",
-        "address": "Пушкина 22",
-        "teacher": "Бочкарев А. О."
+      "title":"Veson Series VII - Unisex",
+      "img":"https://ibb.co/smFb6dY",
+      "price":175.00
+    },
+      {
+      "title":"Panorama Shirt - Unisex",
+      "img":"https://ibb.co/LxDcDJ2",
+      "price":175.00
+    },
+      {
+      "title":"Veson White Shirt - Unisex",
+      "img":"https://ibb.co/JH3Xvvr",
+      "price":175.00
+    },
+      {
+      "title":"Veson Black Shirt - Unisex",
+      "img":"https://ibb.co/F7jnMWt",
+      "price":100.00
       },
       {
-        "data": "Понедельник, 19 июня",
-        "time": "12:30",
-        "subj": "Математический Анализ",
-        "address": "Пушкина 22",
-        "teacher": "Князькин В. О."
-      },
-      {
-        "data": "Понедельник, 19 июня",
-        "time": "14:00",
-        "subj": "Физика",
-        "address": "Пушкина 22",
-        "teacher": "Иванова Е. П."
-      },
-      {
-        "data": "Понедельник, 19 июня",
-        "time": "15:00",
-        "subj": "История",
-        "address": "Пушкина 22",
-        "teacher": "Сидоров Н. И."
-      }
-    ],
-    "2023-06-20": [
-      {
-        "data": "Вторник, 20 июня",
-        "time": "10:00",
-        "subj": "Химия",
-        "address": "Ленина 15",
-        "teacher": "Петрова Л. К."
-      },
-      {
-        "data": "Вторник, 20 июня",
-        "time": "11:30",
-        "subj": "Литература",
-        "address": "Ленина 15",
-        "teacher": "Смирнова Е. В."
-      },
-      {
-        "data": "Вторник, 20 июня",
-        "time": "14:00",
-        "subj": "Иностранный язык",
-        "address": "Ленина 15",
-        "teacher": "Johnson M. E."
-      }
-    ]
-  }
+      "title":"Veson White Shirt - Unisex",
+      "img":"https://ibb.co/JH3Xvvr",
+      "price":175.00
+    }
+  ]
 }
