@@ -34,7 +34,7 @@
 		}
 	],
 	"bestsellers": [{
-			"staus": "Avaliable",
+			"status": "Avaliable",
 			"title": "Veson Series VII - Unisex",
 			"img": "https://i.ibb.co/j6LbWPX/Veson-Series-VII.png",
 			"price": 85.00,
@@ -42,7 +42,7 @@
 			"rating": 5
 		},
 		{
-			"staus": "Avaliable",
+			"status": "Avaliable",
 			"title": "Panorama Shirt - Unisex",
 			"img": "https://i.ibb.co/x1KBKfR/Panorama-Shirt.png",
 			"price": 175.00,
@@ -50,7 +50,7 @@
 			"rating": 4
 		},
 		{
-			"staus": "Avaliable",
+			"status": "Avaliable",
 			"title": "Veson White Shirt - Unisex",
 			"img": "https://i.ibb.co/FzHG558/Veson-White-Shirt.jpg",
 			"price": 55.00,
@@ -58,7 +58,7 @@
 			"rating": 5
 		},
 		{
-			"staus": "Avaliable",
+			"status": "Avaliable",
 			"title": "Veson Black Shirt - Unisex",
 			"img": "https://i.ibb.co/PCftnY8/Veson-Black-Shirt.png",
 			"price": 55.00,
