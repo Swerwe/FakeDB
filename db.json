@@ -1,72 +1,69 @@
 {
-  "filters":[
-    {
-      "title":"All Collection",
-      "img":"https://i.postimg.cc/cHS1ZCWq/All-Collection.png"
-    },
-    {
-      "title":"Casual",
-      "img":"https://i.postimg.cc/RFLS0mCW/Casual.png"
-    },
-    {
-      "title":"New Arrivals",
-      "img":"https://i.postimg.cc/wMx6yr30/New-Arrivals.png"
-    }
-  ],
-  "products":[
-    {
-      "title":"Jacket Black Mamba",
-      "img":"https://i.ibb.co/fFrx0tw/Jacket-Black-Mamba.png",
-      "price":80.00
-    },
-    {
-      "title":"Veson Outdoor Jacket",
-      "img":"https://i.ibb.co/nrjZ5Y5/Veson-Outdoor-Jacket-veed-remove-background.png",
-      "price":95.00
-    },
-    {
-      "title":"Sigara Veson Jacket",
-      "img":"https://i.ibb.co/QD95bLP/Sigara-Veson-Jacket.png",
-      "price":95.00
-    },
-    {
-      "title":"Rinja Veson-Soft",
-      "img":"https://i.ibb.co/pPTnZXp/Rinja-Veson-Soft.jpg",
-      "price":75.00
-    }
-  ],
-  "bestsellers":[
-      {
-      "staus":"Avaliable",
-      "title":"Veson Series VII - Unisex",
-      "img":"https://i.ibb.co/j6LbWPX/Veson-Series-VII.png",
-      "price":85.00,
-      "ratesNumber":216,
-      "rating"5
-    },
-      {
-      "staus":"Avaliable",
-      "title":"Panorama Shirt - Unisex",
-      "img":"https://i.ibb.co/x1KBKfR/Panorama-Shirt.png",
-      "price":175.00,
-      "ratesNumber":99,
-      "rating"4
-    },
-      {
-      "staus":"Avaliable",
-      "title":"Veson White Shirt - Unisex",
-      "img":"https://i.ibb.co/FzHG558/Veson-White-Shirt.jpg",
-      "price":55.00,
-      "ratesNumber":96,
-      "rating"5,
-    },
-      {
-      "staus":"Avaliable",
-      "title":"Veson Black Shirt - Unisex",
-      "img":"https://i.ibb.co/PCftnY8/Veson-Black-Shirt.png",
-      "price":55.00,
-      "ratesNumber":79,
-      "rating"4,
-      }
-  ]
+	"filters": [{
+			"title": "All Collection",
+			"img": "https://i.postimg.cc/cHS1ZCWq/All-Collection.png"
+		},
+		{
+			"title": "Casual",
+			"img": "https://i.postimg.cc/RFLS0mCW/Casual.png"
+		},
+		{
+			"title": "New Arrivals",
+			"img": "https://i.postimg.cc/wMx6yr30/New-Arrivals.png"
+		}
+	],
+	"products": [{
+			"title": "Jacket Black Mamba",
+			"img": "https://i.ibb.co/fFrx0tw/Jacket-Black-Mamba.png",
+			"price": 80.00
+		},
+		{
+			"title": "Veson Outdoor Jacket",
+			"img": "https://i.ibb.co/nrjZ5Y5/Veson-Outdoor-Jacket-veed-remove-background.png",
+			"price": 95.00
+		},
+		{
+			"title": "Sigara Veson Jacket",
+			"img": "https://i.ibb.co/QD95bLP/Sigara-Veson-Jacket.png",
+			"price": 95.00
+		},
+		{
+			"title": "Rinja Veson-Soft",
+			"img": "https://i.ibb.co/pPTnZXp/Rinja-Veson-Soft.jpg",
+			"price": 75.00
+		}
+	],
+	"bestsellers": [{
+			"staus": "Avaliable",
+			"title": "Veson Series VII - Unisex",
+			"img": "https://i.ibb.co/j6LbWPX/Veson-Series-VII.png",
+			"price": 85.00,
+			"ratesNumber": 216,
+			"rating": 5
+		},
+		{
+			"staus": "Avaliable",
+			"title": "Panorama Shirt - Unisex",
+			"img": "https://i.ibb.co/x1KBKfR/Panorama-Shirt.png",
+			"price": 175.00,
+			"ratesNumber": 99,
+			"rating": 4
+		},
+		{
+			"staus": "Avaliable",
+			"title": "Veson White Shirt - Unisex",
+			"img": "https://i.ibb.co/FzHG558/Veson-White-Shirt.jpg",
+			"price": 55.00,
+			"ratesNumber": 96,
+			"rating": 5
+		},
+		{
+			"staus": "Avaliable",
+			"title": "Veson Black Shirt - Unisex",
+			"img": "https://i.ibb.co/PCftnY8/Veson-Black-Shirt.png",
+			"price": 55.00,
+			"ratesNumber": 79,
+			"rating": 4
+		}
+	]
 }
