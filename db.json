@@ -1,69 +1,23 @@
 {
-	"filters": [{
-			"title": "All Collection",
-			"img": "https://i.postimg.cc/cHS1ZCWq/All-Collection.png"
-		},
+	"swap":[
 		{
-			"title": "Casual",
-			"img": "https://i.postimg.cc/RFLS0mCW/Casual.png"
-		},
-		{
-			"title": "New Arrivals",
-			"img": "https://i.postimg.cc/wMx6yr30/New-Arrivals.png"
-		}
-	],
-	"products": [{
-			"title": "Jacket Black Mamba",
-			"img": "https://i.ibb.co/fFrx0tw/Jacket-Black-Mamba.png",
-			"price": 80.00
-		},
-		{
-			"title": "Veson Outdoor Jacket",
-			"img": "https://i.ibb.co/nrjZ5Y5/Veson-Outdoor-Jacket-veed-remove-background.png",
-			"price": 95.00
-		},
-		{
-			"title": "Sigara Veson Jacket",
-			"img": "https://i.ibb.co/QD95bLP/Sigara-Veson-Jacket.png",
-			"price": 95.00
-		},
-		{
-			"title": "Rinja Veson-Soft",
-			"img": "https://i.ibb.co/pPTnZXp/Rinja-Veson-Soft.jpg",
-			"price": 75.00
-		}
-	],
-	"bestsellers": [{
-			"status": "Avaliable",
-			"title": "Veson Series VII - Unisex",
-			"img": "https://i.ibb.co/j6LbWPX/Veson-Series-VII.png",
-			"price": 85.00,
-			"ratesNumber": 216,
-			"rating": 5
-		},
-		{
-			"status": "Avaliable",
-			"title": "Panorama Shirt - Unisex",
-			"img": "https://i.ibb.co/x1KBKfR/Panorama-Shirt.png",
-			"price": 175.00,
-			"ratesNumber": 99,
-			"rating": 4
-		},
-		{
-			"status": "Avaliable",
-			"title": "Veson White Shirt - Unisex",
-			"img": "https://i.ibb.co/FzHG558/Veson-White-Shirt.jpg",
-			"price": 55.00,
-			"ratesNumber": 96,
-			"rating": 5
-		},
-		{
-			"status": "Avaliable",
-			"title": "Veson Black Shirt - Unisex",
-			"img": "https://i.ibb.co/PCftnY8/Veson-Black-Shirt.png",
-			"price": 55.00,
-			"ratesNumber": 79,
-			"rating": 4
-		}
+            "from": {
+                "tokenName":"BNB",
+                "svg": "",
+                "fullName": "Binance",
+                "balance": 0.034,
+                "amount": 0.00279,
+                "usd":485.43
+            },
+            "to": {
+                "tokenName":"ETH",
+                "svg": "",
+                "fullName": "Ethereum",
+                "balance": 0,
+                "amount": 35.34523,
+                "usd":803.25,
+                "revenuePercent":40.8
+            }
+        }
 	]
 }
