@@ -1,5 +1,5 @@
 {
-	"swap":[
+	"swap":{
 		{
             "from": {
                 "tokenName":"BNB",
@@ -19,5 +19,5 @@
                 "revenuePercent":40.8
             }
         }
-	]
+}
 }
