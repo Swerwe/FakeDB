@@ -261,5 +261,128 @@
                 "value": 13
             }
         ]
-    }
+    },
+    "tokens":[
+        {
+          "name": "Bitcoin",
+          "price": 49782.35,
+          "balance": "5.3242 BTC",
+          "marketCap": 930818677028,
+          "volume": 47682523442,
+          "circSupply": 18.73
+        },
+        {
+          "name": "Ethereum",
+          "price": 3321.89,
+          "balance": "25.874 ETH",
+          "marketCap": 383394444444,
+          "volume": 19265487987,
+          "circSupply": 115.49
+        },
+        {
+          "name": "Binance Coin",
+          "price": 471.32,
+          "balance": "100.023 BNB",
+          "marketCap": 72619587648,
+          "volume": 3465892312,
+          "circSupply": 153.43
+        },
+        {
+          "name": "Solana",
+          "price": 201.53,
+          "balance": "82.361 SOL",
+          "marketCap": 54879314198,
+          "volume": 1865479321,
+          "circSupply": 272.19
+        },
+        {
+          "name": "Cardano",
+          "price": 1.29,
+          "balance": "1000.15 ADA",
+          "marketCap": 41569428329,
+          "volume": 1048695712,
+          "circSupply": 32.29
+        },
+        {
+          "name": "XRP",
+          "price": 0.879,
+          "balance": "2500.982 XRP",
+          "marketCap": 41695428329,
+          "volume": 927895421,
+          "circSupply": 47.31
+        },
+        {
+          "name": "Polkadot",
+          "price": 36.42,
+          "balance": "55.891 DOT",
+          "marketCap": 36023456892,
+          "volume": 632154789,
+          "circSupply": 987.45
+        },
+        {
+          "name": "Chainlink",
+          "price": 47.53,
+          "balance": "100.234 LINK",
+          "marketCap": 21234567892,
+          "volume": 432154789,
+          "circSupply": 461.23
+        },
+        {
+          "name": "Litecoin",
+          "price": 206.97,
+          "balance": "20.451 LTC",
+          "marketCap": 13876543210,
+          "volume": 264987321,
+          "circSupply": 67.12
+        },
+        {
+          "name": "Stellar",
+          "price": 0.387,
+          "balance": "5000.764 XLM",
+          "marketCap": 9345678901,
+          "volume": 547896321,
+          "circSupply": 100.98
+        },
+        {
+          "name": "Dogecoin",
+          "price": 0.197,
+          "balance": "15000.287 DOGE",
+          "marketCap": 2578901234,
+          "volume": 42365879,
+          "circSupply": 130.75
+        },
+        {
+          "name": "Avalanche",
+          "price": 64.28,
+          "balance": "40.217 AVAX",
+          "marketCap": 813456789,
+          "volume": 23456789,
+          "circSupply": 12.68
+        },
+        {
+          "name": "Uniswap",
+          "price": 34.72,
+          "balance": "100.291 UNI",
+          "marketCap": 1812345678,
+          "volume": 54321678,
+          "circSupply": 55.28
+        },
+        {
+          "name": "Cosmos",
+          "price": 34.89,
+          "balance": "80.087 ATOM",
+          "marketCap": 732456789,
+          "volume": 7654321,
+          "circSupply": 86.29
+        },
+        {
+          "name": "Terra",
+          "price": 57.93,
+          "balance": "30.017 LUNA",
+          "marketCap": 193456789,
+          "volume": 654321,
+          "circSupply": 61.34
+        }
+      ]
+      
 }
