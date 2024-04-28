@@ -265,6 +265,7 @@
     "tokens":[
         {
           "name": "Bitcoin",
+          "key": "Bitcoin",
           "price": 49782.35,
           "balance": "5.3242 BTC",
           "marketCap": 930818677028,
@@ -273,6 +274,7 @@
         },
         {
           "name": "Ethereum",
+          "key": "Ethereum",
           "price": 3321.89,
           "balance": "25.874 ETH",
           "marketCap": 383394444444,
@@ -281,6 +283,7 @@
         },
         {
           "name": "Binance Coin",
+          "key": "Binance Coin",
           "price": 471.32,
           "balance": "100.023 BNB",
           "marketCap": 72619587648,
@@ -289,6 +292,7 @@
         },
         {
           "name": "Solana",
+          "key": "Solana",
           "price": 201.53,
           "balance": "82.361 SOL",
           "marketCap": 54879314198,
@@ -297,6 +301,7 @@
         },
         {
           "name": "Cardano",
+          "key": "Cardano",
           "price": 1.29,
           "balance": "1000.15 ADA",
           "marketCap": 41569428329,
@@ -305,6 +310,7 @@
         },
         {
           "name": "XRP",
+          "key": "XRP",
           "price": 0.879,
           "balance": "2500.982 XRP",
           "marketCap": 41695428329,
@@ -313,6 +319,7 @@
         },
         {
           "name": "Polkadot",
+          "key": "Polkadot",
           "price": 36.42,
           "balance": "55.891 DOT",
           "marketCap": 36023456892,
@@ -321,6 +328,7 @@
         },
         {
           "name": "Chainlink",
+          "key": "Chainlink",
           "price": 47.53,
           "balance": "100.234 LINK",
           "marketCap": 21234567892,
@@ -329,6 +337,7 @@
         },
         {
           "name": "Litecoin",
+          "key": "Litecoin",
           "price": 206.97,
           "balance": "20.451 LTC",
           "marketCap": 13876543210,
@@ -337,6 +346,7 @@
         },
         {
           "name": "Stellar",
+          "key": "Stellar",
           "price": 0.387,
           "balance": "5000.764 XLM",
           "marketCap": 9345678901,
@@ -345,6 +355,7 @@
         },
         {
           "name": "Dogecoin",
+          "key": "Dogecoin",
           "price": 0.197,
           "balance": "15000.287 DOGE",
           "marketCap": 2578901234,
@@ -353,6 +364,7 @@
         },
         {
           "name": "Avalanche",
+          "key": "Avalanche",
           "price": 64.28,
           "balance": "40.217 AVAX",
           "marketCap": 813456789,
@@ -361,6 +373,7 @@
         },
         {
           "name": "Uniswap",
+          "key": "Uniswap",
           "price": 34.72,
           "balance": "100.291 UNI",
           "marketCap": 1812345678,
@@ -369,6 +382,7 @@
         },
         {
           "name": "Cosmos",
+          "key": "Cosmos",
           "price": 34.89,
           "balance": "80.087 ATOM",
           "marketCap": 732456789,
@@ -377,6 +391,7 @@
         },
         {
           "name": "Terra",
+          "key": "Terra",
           "price": 57.93,
           "balance": "30.017 LUNA",
           "marketCap": 193456789,
