@@ -279,7 +279,7 @@
           "balance": "25.874 ETH",
           "marketCap": 383394444444,
           "volume": 19265487987,
-          "circSupply": 115.49
+          "circSupply": 15.49
         },
         {
           "name": "Binance Coin",
@@ -288,7 +288,7 @@
           "balance": "100.023 BNB",
           "marketCap": 72619587648,
           "volume": 3465892312,
-          "circSupply": 153.43
+          "circSupply": 53.43
         },
         {
           "name": "Solana",
@@ -297,7 +297,7 @@
           "balance": "82.361 SOL",
           "marketCap": 54879314198,
           "volume": 1865479321,
-          "circSupply": 272.19
+          "circSupply": 72.19
         },
         {
           "name": "Cardano",
@@ -324,7 +324,7 @@
           "balance": "55.891 DOT",
           "marketCap": 36023456892,
           "volume": 632154789,
-          "circSupply": 987.45
+          "circSupply": 87.45
         },
         {
           "name": "Chainlink",
@@ -333,7 +333,7 @@
           "balance": "100.234 LINK",
           "marketCap": 21234567892,
           "volume": 432154789,
-          "circSupply": 461.23
+          "circSupply": 61.23
         },
         {
           "name": "Litecoin",
@@ -351,7 +351,7 @@
           "balance": "5000.764 XLM",
           "marketCap": 9345678901,
           "volume": 547896321,
-          "circSupply": 100.98
+          "circSupply": 10.98
         },
         {
           "name": "Dogecoin",
@@ -360,7 +360,7 @@
           "balance": "15000.287 DOGE",
           "marketCap": 2578901234,
           "volume": 42365879,
-          "circSupply": 130.75
+          "circSupply": 13.75
         },
         {
           "name": "Avalanche",
@@ -387,7 +387,7 @@
           "balance": "80.087 ATOM",
           "marketCap": 732456789,
           "volume": 7654321,
-          "circSupply": 86.29
+          "circSupply": 6.29
         },
         {
           "name": "Terra",
@@ -396,7 +396,7 @@
           "balance": "30.017 LUNA",
           "marketCap": 193456789,
           "volume": 654321,
-          "circSupply": 61.34
+          "circSupply": 6.34
         }
       ]
       
