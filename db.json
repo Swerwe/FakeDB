@@ -399,5 +399,7 @@
           "circSupply": 6.34
         }
       ],
-      "greed": 76    
+      "greed": {
+        "value":76
+      }    
 }
